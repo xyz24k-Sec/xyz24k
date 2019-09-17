@@ -1,2 +1,2 @@
 # xyz24k
-Secuirity
+常用网络安全标准
